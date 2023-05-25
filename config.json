@@ -3,7 +3,7 @@
 "server_port":8500,
 "method":"aes-256-gcm",
 "timeout":300,
-"password":"password",
+"password":"ustb",
 "fast_open":false,
 "nameserver":"8.8.8.8",
 "mode":"tcp_and_udp",
